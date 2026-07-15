@@ -846,4 +846,3 @@ class MonitoringBot:
 if __name__ == '__main__':
     bot = MonitoringBot()
     asyncio.run(bot.run())
-```
